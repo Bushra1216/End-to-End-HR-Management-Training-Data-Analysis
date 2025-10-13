@@ -7,7 +7,7 @@ _Analyzing training performance, budget efficiency, and ROI to help HR leadershi
 ## Overview
 
 
-This project evaluates employee performance improvement following training, analyzes spending efficiency, identifies most effective training programs along with opportunities to maximize both training outcomes and cost effectiveness. The analysis is based on **AdventureTech’s** HR training initiatives conducted between **May 2022 and August 2023**. The provided training data includes key fields such as **Employee ID**, **training date**, **training duration**, **training costs**, **budgets**, **training types**, **training outcome**, **training programs**, **trainer name**, **feedback scores**, **pre-test scores**, **post-test scores**, and **certification status*. 
+This project evaluates employee performance improvement following training, analyzes spending efficiency, identifies most effective training programs along with opportunities to maximize both training outcomes and cost effectiveness. The analysis is based on **AdventureTech’s** HR training initiatives conducted between **May 2022 and August 2023**. The provided training data includes key fields such as **Employee ID**, **training date**, **training duration**, **training costs**, **budgets**, **training types**, **training outcome**, **training programs**, **trainer name**, **feedback scores**, **pre-test scores**, **post-test scores**, and **certification status**. 
 
 <br>
 
