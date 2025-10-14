@@ -27,13 +27,26 @@ This project evaluates employee performance improvement following training, anal
 
 <h2><a class="anchor" id="ask1"></a>Executive Summary</h2>
 
-**From May 10, 2022, to August 3, 2023, the company conducted seven training programs involving approximately 145 employees, with the highest participation in May. Most employees received training in Project Management. Employees showed higher participation in Internal training (over 80%) compared to external training programs. Total spending across this period was approximately $95k, and the cost decreased by 30.76% in 2023.**
-
-- Budget Utilization
+**From May 10, 2022, to August 3, 2023, the company conducted seven training programs involving approximately 145 employees, with the highest participation in May. Most employees joined in Project Management training. Employees showed higher participation in Internal training (over 80%) compared to External training programs. Total cost across overall period was approximately $95k, and spending decreased by 30.76% in 2023.**
 
 
 
 
+<br>
+
+
+<h2><a class="anchor" id="ask1"></a>Key Findings</h2>
+
+- Budget Utilization: Almost 98.7% of total allocated budget has been utilized effectively
+- Savings: 1.3% of the budget remained unspent, reflecting prudent cost control, not waste
+- Internal vs. External Cost Split: Internal Training Cost = 65K, External Cost = 30K
+- Performance Growth: Overall employee performance improved across all programs — with an average growth of 36%
+- Top Trainings: Communication Skills, Customer Service delivered the best Return On Investment and based on post-test score employees improved 37% in Project Management 
+- Best Budget Efficiency: Leadership Development (lowest cost per employee ~$508)
+- Top Perfroming Trainers: Maek Paul and John Dawson — received average feedback scores of 4.5
+- Employee Participation Concern: Participation drop 14.10% in 2023
+- Overspending Alert: Database Administration exceeded its budget slightly (+7.7%)
+- Training Impact: Improved post-test performance across all programs
 
 
 ___
