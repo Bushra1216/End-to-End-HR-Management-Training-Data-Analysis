@@ -68,9 +68,9 @@ This project evaluates employee performance improvement following training, anal
 Across all training programs, employees demonstrated measurable improvement. Overall, 22% employee successfully passed the training and received a certificate. And the remaining 78%, who are denoted as "Not Passed' are not all the same; among them, 30% completed the training (some of them got certificates), 25% are in ongoing training, and 23% failed. Employees made the most progress in **Customer Service** and **Communication Skills** program. Though, employees are more engaged in **Project Management**(an ongoing training as well). Here, their performance improved by 37%. In **Excel – Basic To Advanced**, participants showed the lowest improvement at 27%. While employees provided an average feedback score of 4.3 for this training, similar to other programs like Technical Skills and Project Management, this disparity suggests a need to review the training duration and the effectiveness of trainers. <br>
 
 Strongest improvements observed (Pre-Test Score vs. Post-Test Score):
-•	Customer Service (+23pp)
-•	Communication Skills (+21pp)
-•	Technical Skills (+20pp)
+-	Customer Service (+23pp)
+-	Communication Skills (+21pp)
+-	Technical Skills (+20pp)
 Even in Project Management and Database Administration, employees showed significant improvement.
 
 
