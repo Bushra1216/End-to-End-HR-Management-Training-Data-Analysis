@@ -54,9 +54,14 @@ This project evaluates employee performance improvement following training, anal
 
 <h2><a class="anchor" id="ask1"></a>Dashboard</h2>
 
-<h3><a class="anchor" id="ask1"></a>Workforce Training Insights</h3>
+<h3><a class="anchor" id="ask1"></a>Workforce Training Overview</h3>
+<br> <img width="1348" height="933" alt="Image" src="https://github.com/user-attachments/assets/a29d5fe1-1804-45f3-ae7f-81aaec71d6c5" /> <br><br>
+
+
 <br>
-<img align="center" alt="explore"  src="https://github.com/user-attachments/assets/732ee7d8-b796-43ab-8cdb-05ee74dca39c"> <br><br>
+
+
+<h3><a class="anchor" id="ask1"></a>Performance Analysis</h3>
 
 
 
