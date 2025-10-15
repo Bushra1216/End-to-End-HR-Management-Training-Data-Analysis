@@ -49,4 +49,15 @@ This project evaluates employee performance improvement following training, anal
 - Training Impact: Improved post-test performance across all programs
 
 
+<br>
+
+
+<h2><a class="anchor" id="ask1"></a>Dashboard</h2>
+
+<h3><a class="anchor" id="ask1"></a>Workforce Training Insights</h3>
+<br>
+<img align="center" alt="explore"  src="https://github.com/user-attachments/assets/732ee7d8-b796-43ab-8cdb-05ee74dca39c"> <br><br>
+
+
+
 ___
