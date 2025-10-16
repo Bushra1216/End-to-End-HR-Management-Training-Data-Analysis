@@ -83,7 +83,13 @@ Strongest improvements observed (Pre-Test Score vs. Post-Test Score):
 -	Customer Service (+23pp)
 -	Communication Skills (+21pp)
 -	Technical Skills (+20pp)<br>
-<p>Even in Project Management and Database Administration, employees showed significant improvement.<a href=""> Read more</a></p>
+<p>Even in Project Management and Database Administration, employees showed significant improvement.<a href="https://github.com/Bushra1216/End-to-End-HR-Management-Training-Data-Analysis/blob/main/HR_Report.pdf"> Read more</a></p>
 
 
+
+<br>
+
+
+<h3><a class="anchor" id="tic"></a>Training Investment & Cost Efficiency</h3>
+<br><img width="1448" height="953" alt="Image" src="https://github.com/user-attachments/assets/a1fc5d18-55d6-464c-a1cb-79bd351fd278" /> <br><br>
 ___
