@@ -90,6 +90,10 @@ Strongest improvements observed (Pre-Test Score vs. Post-Test Score):
 <br>
 
 
-<h3><a class="anchor" id="tic"></a>Training Investment & Cost Efficiency</h3>
-<br><img width="1448" height="953" alt="Image" src="https://github.com/user-attachments/assets/a1fc5d18-55d6-464c-a1cb-79bd351fd278" /> <br><br>
-___
+<h3><a class="anchor" id="pa"></a>Training Investment and Cost Efficiency</h3>
+<br> <img width="1430" height="970" alt="Image" src="https://github.com/user-attachments/assets/64094162-1a2b-4d91-85c4-6ad06b0f89c4" /><br><br>
+
+<br>
+<br> <img width="1430" height="970" alt="Image" src="https://github.com/user-attachments/assets/c4cea5db-a162-4600-9879-97cc5bc131c7" /><br><br>
+<p></p>
+
