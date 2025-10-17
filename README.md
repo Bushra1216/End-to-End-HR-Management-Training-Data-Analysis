@@ -77,7 +77,7 @@ This project evaluates employee performance improvement following training, anal
 
 
 
-Across all training programs, employees demonstrated measurable improvement. Overall, 22% employee successfully passed the training and received a certificate. And the remaining 78%, who are denoted as "Not Passed' are not all the same; among them, 30% completed the training (some of them got certificates), 25% are in ongoing training, and 23% failed. Employees made the most progress in **Customer Service** and **Communication Skills** program. Though, employees are more engaged in **Project Management**(an ongoing training as well). Here, their performance improved by 37%. In **Excel – Basic To Advanced**, participants showed the lowest improvement at 27%. While employees provided an average feedback score of 4.3 for this training, similar to other programs like Technical Skills and Project Management, this disparity suggests a need to review the training duration and the effectiveness of trainers. <br>
+Across all training programs, employees demonstrated measurable improvement. Overall, 22% employee successfully passed the training and received a certificate. And the remaining 78%, who are denoted as "Not Passed' are not all the same; among them, 30% completed the training (some of them got certificates), 25% are in ongoing training, and 23% failed. Employees made the most progress in **Customer Service** and **Communication Skills** program. Though, employees are more engaged in **Project Management**(year-long training as well). Here, their performance improved by 37%. In **Excel – Basic To Advanced**, participants showed the lowest improvement at 27%. While employees provided an average feedback score of 4.3 for this training, similar to other programs like Technical Skills and Project Management, suggesting a need to review the duration and trainer effectiveness. <br>
 
 Strongest improvements observed (Pre-Test Score vs. Post-Test Score):
 -	Customer Service (+23pp)
@@ -95,5 +95,7 @@ Strongest improvements observed (Pre-Test Score vs. Post-Test Score):
 
 <br>
 <br> <img width="1430" height="970" alt="Image" src="https://github.com/user-attachments/assets/c4cea5db-a162-4600-9879-97cc5bc131c7" /><br><br>
-<p></p>
+<p>May recorded the highest cost of $15.7K and longest duration (63 days). Because the Database Administration program, which was particularly expensive and running for 11 days in May, cost $7.5K, plus the Technical Skills training conducted for 25 days that month at $4.3K.<br>
+As an external program, Database Administration slightly 7.76% over of its allocated budget. On the other hand, the Project Management—an ongoing, year-long program—remained within its budget of 19K. In contrast, internal programs were more cost-effective, collectively totaling around 65K compared to 30K for external programs.<a href="https://github.com/Bushra1216/End-to-End-HR-Management-Training-Data-Analysis/blob/main/HR_Report.pdf"> Read more</a>
+</p>
 
