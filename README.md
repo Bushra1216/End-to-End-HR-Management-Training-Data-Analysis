@@ -67,7 +67,7 @@ This project evaluates employee performance improvement following training, anal
 <h3><a class="anchor" id="wto"></a>Workforce Training Overview</h3>
 <br> <img width="1348" height="933" alt="Image" src="https://github.com/user-attachments/assets/a29d5fe1-1804-45f3-ae7f-81aaec71d6c5" /> <br><br>
 
-
+Most employees received training in Project Management. Employees showed higher participation in Internal training (over 80%) compared to external training programs.
 <br>
 
 
@@ -98,4 +98,35 @@ Strongest improvements observed (Pre-Test Score vs. Post-Test Score):
 <p>
 As an external program, Database Administration slightly 7.76% over of its allocated budget. On the other hand, the Project Management—an ongoing, year-long program—remained within its budget of 19K. In contrast, internal programs were more cost-effective, collectively totaling around 65K compared to 30K for external programs.<a href="https://github.com/Bushra1216/End-to-End-HR-Management-Training-Data-Analysis/blob/main/HR_Report.pdf"> Read more</a>
 </p>
+
+
+<br>
+<br>
+
+<h2><a class="anchor" id="pa"></a>Extended Analysis: Cost, Duration and Program Performance Efficiency</h2>
+<p>Performed Correlation and ROI-based performance analysis to evaluate performance growth, training cost, training duration, and budget utilization across all training programs, including the Efficiency Ratio to highlight programs that achieved the best balance between impact and budget control.</p> <br>
+
+
+
+
+
+ | **Training Program** | **Cost**    | **ROI per $1000**  | **Budget_Used%** | **Efficiency_Ratio** |
+|-------------------|-----------------|----------------|-------------|------------|
+| Communication Skills     | 9330  | 4.5%          | 95.67%       | 0.0047           |
+| Customer Service         | 13185 | 3.3%          | 97.61%       | 0.0033           |
+| Database Administration  | 18600 | 1.9%          | 107.76%      | 0.0018           |
+| Excel - Basic to Advance | 11446 | 2.4%          | 98%          | 0.0024           |
+| Leadership Development   | 8134  | 3.8%          | 95.3%        | 0.004            |
+| Project Management       | 18229 | 2%            | 96.11%       | 0.0021           |
+| Technical Skills         | 16144 | 2.2%          | 97.3%        | 0.0023           |
+
+<br>
+
+<h4><a class="anchor" id="ca"></a>Correlation Analysis</h4>
+
+- Between cost & performance growth: Pearson r =  0.1491, P-value: 0.75 [There is no statistically significant relationship between cost and performance growth.
+It indicates that higher spending does not always guarantee better outcomes]
+- Between training duration & performance growth: Pearson r = 0.1908, P-value: 0.68 [No significant relationship between training days and performance growth.]
+
+**Interpretation**
 
