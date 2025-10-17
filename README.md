@@ -92,10 +92,10 @@ Strongest improvements observed (Pre-Test Score vs. Post-Test Score):
 
 <h3><a class="anchor" id="pa"></a>Training Investment and Cost Efficiency</h3>
 <br> <img width="1430" height="970" alt="Image" src="https://github.com/user-attachments/assets/64094162-1a2b-4d91-85c4-6ad06b0f89c4" /><br><br>
+<p>May recorded the highest cost of $15.7K and longest duration (63 days). Because the Database Administration program, which was particularly expensive and running for 11 days in May, cost $7.5K, plus the Technical Skills training conducted for 25 days that month at $4.3K.</p>
 
-<br>
 <br> <img width="1430" height="970" alt="Image" src="https://github.com/user-attachments/assets/c4cea5db-a162-4600-9879-97cc5bc131c7" /><br><br>
-<p>May recorded the highest cost of $15.7K and longest duration (63 days). Because the Database Administration program, which was particularly expensive and running for 11 days in May, cost $7.5K, plus the Technical Skills training conducted for 25 days that month at $4.3K.<br>
+<p>
 As an external program, Database Administration slightly 7.76% over of its allocated budget. On the other hand, the Project Management—an ongoing, year-long program—remained within its budget of 19K. In contrast, internal programs were more cost-effective, collectively totaling around 65K compared to 30K for external programs.<a href="https://github.com/Bushra1216/End-to-End-HR-Management-Training-Data-Analysis/blob/main/HR_Report.pdf"> Read more</a>
 </p>
 
