@@ -128,5 +128,5 @@ As an external program, Database Administration slightly 7.76% over of its alloc
 It indicates that higher spending does not always guarantee better outcomes]
 - Between training duration & performance growth: Pearson r = 0.1908, P-value: 0.68 [No significant relationship between training days and performance growth.]
 
-**Interpretation**
+**Interpretation:**
 Both correlation shows no significant relationship between them. It indicates, higher cost or longer duration did not reliably produce greater performance improvement. Focus on what is delivered, trainer's effectiveness, content quality
