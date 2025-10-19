@@ -6,8 +6,8 @@ _Analyzing training performance, budget efficiency, and ROI to help HR leadershi
 
 ## Overview
 
-
-This project evaluates employee performance improvement following training, analyzes spending efficiency, identifies most effective training programs along with opportunities to maximize both training outcomes and cost effectiveness. The analysis is based on **AdventureTech’s** HR training initiatives conducted between **May 2022 and August 2023**. The provided training data includes key fields such as **Employee ID**, **training date**, **training duration**, **training costs**, **budgets**, **training types**, **training outcome**, **training programs**, **trainer name**, **feedback scores**, **pre-test scores**, **post-test scores**, and **certification status**. 
+<p align=justify>
+This project evaluates employee performance improvement following training, analyzes spending efficiency, identifies most effective training programs along with opportunities to maximize both training outcomes and cost effectiveness. The analysis is based on <strong>AdventureTech’s</strong> HR training initiatives conducted between <strong>May 2022 and August 2023</strong>. The provided training data includes key fields such as employee id, training date, training duration, training costs, budgets, training types, training outcome, training programs, trainer name, feedback scores, pre-test scores, post-test scores, and certification status.</p>
 
 <br>
 
@@ -37,7 +37,7 @@ This project evaluates employee performance improvement following training, anal
 
 <h2><a class="anchor" id="exs"></a>Executive Summary</h2>
 
-**From May 10, 2022, to August 3, 2023, the company conducted seven training programs involving approximately 145 employees, with the highest participation in May. Most employees joined in Project Management training. Employees showed higher participation in Internal training (over 80%) compared to External training programs. Total cost across overall period was approximately $95k, and spending decreased by 30.76% in 2023.**
+<p align=justify><strong>From May 10, 2022, to August 3, 2023, the company conducted seven training programs involving approximately 145 employees, with the highest participation in May. Most employees joined in Project Management training. Employees showed higher participation in Internal training (over 80%) compared to External training programs. Total cost across overall period was approximately $95k, and spending decreased by 30.76% in 2023.</strong></p>
 
 
 
@@ -67,17 +67,19 @@ This project evaluates employee performance improvement following training, anal
 <h3><a class="anchor" id="wto"></a>Workforce Training Overview</h3>
 <br> <img width="1348" height="933" alt="Image" src="https://github.com/user-attachments/assets/a29d5fe1-1804-45f3-ae7f-81aaec71d6c5" /> <br><br>
 
-Most employees received training in Project Management. Employees showed higher participation in Internal training (over 80%) compared to external training programs.
+Most employees received training in Project Management. Employees showed higher participation in Internal training (over 80%) compared to external training programs. Completion rate decreased 12% in 2023 compared to 2022, which was 58%. Training participation peaked from October to December in 2022 and January 2023. However, employees improved their performance by an average of 37% <a href=" ">read more</a>.
+
+
 <br>
 
-
+<br>
 <h3><a class="anchor" id="pa"></a>Performance Analysis</h3>
 <br><img width="1448" height="953" alt="Image" src="https://github.com/user-attachments/assets/a1fc5d18-55d6-464c-a1cb-79bd351fd278" /> <br><br>
 
 
 
-
-Across all training programs, employees demonstrated measurable improvement. Overall, 22% employee successfully passed the training and received a certificate. And the remaining 78%, who are denoted as "Not Passed' are not all the same; among them, 30% completed the training (some of them got certificates), 25% are in ongoing training, and 23% failed. Employees made the most progress in **Customer Service** and **Communication Skills** program. Though, employees are more engaged in **Project Management**(year-long training as well). Here, their performance improved by 37%. In **Excel – Basic To Advanced**, participants showed the lowest improvement at 27%. While employees provided an average feedback score of 4.3 for this training, similar to other programs like Technical Skills and Project Management, suggesting a need to review the duration and trainer effectiveness. <br>
+<p align=justify>
+Across all training programs, employees demonstrated measurable improvement. Overall, 22% employee successfully passed the training and received a certificate. And the remaining 78%, who are denoted as "Not Passed' are not all the same; among them, 30% completed the training (some of them got certificates), 25% are in ongoing training, and 23% failed. Employees made the most progress in <strong>Customer Service</strong> and <strong>Communication Skills</strong> program. Though, employees are more engaged in <strong>Project Management</strong>(year-long training as well). Here, their performance improved by 37%. In <strong>Excel – Basic To Advanced</strong>, participants showed the lowest improvement at 27%. While employees provided an average feedback score of 4.3 for this training, similar to other programs like Technical Skills and Project Management, suggesting a need to review the duration and trainer effectiveness.</p> <br>
 
 Strongest improvements observed (Pre-Test Score vs. Post-Test Score):
 -	Customer Service (+23pp)
@@ -107,26 +109,50 @@ As an external program, Database Administration slightly 7.76% over of its alloc
 <p>Performed Correlation and ROI-based performance analysis to evaluate performance growth, training cost, training duration, and budget utilization across all training programs, including the Efficiency Ratio to highlight programs that achieved the best balance between impact and budget control.</p> <br>
 
 
-
-
-
- | **Training Program** | **Cost**    | **ROI per $1000**  | **Budget_Used%** | **Efficiency_Ratio** |
-|-------------------|-----------------|----------------|-------------|------------|
-| Communication Skills     | 9330  | 4.5%          | 95.67%       | 0.0047           |
-| Customer Service         | 13185 | 3.3%          | 97.61%       | 0.0033           |
-| Database Administration  | 18600 | 1.9%          | 107.76%      | 0.0018           |
-| Excel - Basic to Advance | 11446 | 2.4%          | 98%          | 0.0024           |
-| Leadership Development   | 8134  | 3.8%          | 95.3%        | 0.004            |
-| Project Management       | 18229 | 2%            | 96.11%       | 0.0021           |
-| Technical Skills         | 16144 | 2.2%          | 97.3%        | 0.0023           |
-
-<br>
-
 <h4><a class="anchor" id="ca"></a>Correlation Analysis</h4>
 
 - Between cost & performance growth: Pearson r =  0.1491, P-value: 0.75 [There is no statistically significant relationship between cost and performance growth.
 It indicates that higher spending does not always guarantee better outcomes]
-- Between training duration & performance growth: Pearson r = 0.1908, P-value: 0.68 [No significant relationship between training days and performance growth.]
+- Between training duration & performance growth: Pearson r = 0.1908, P-value: 0.68 [No significant relationship between training days and performance growth]
 
 **Interpretation:**
-Both correlation shows no significant relationship between them. It indicates, higher cost or longer duration did not reliably produce greater performance improvement. Focus on what is delivered, trainer's effectiveness, content quality
+Both correlation shows no significant relationship between them. It indicates, higher cost or longer duration did not reliably produce greater performance improvement. Focus on what is delivered, trainer's quality, program structure or content relevance.<br>
+
+<br>
+<h4><a class="anchor" id="roi_ef"></a>ROI and Efficiency Ratio</h4>
+
+| **Training Program** | **Cost**    | **Budget**    | **ROI per $1000**  | **Budget_Used%** | **Efficiency_Ratio** |
+|-------------------|-----------------|----------------|-------------|------------|------------|
+| Communication Skills     | 9330  | 9752  | 4.5%          | 95.67%       | 0.0047           |
+| Leadership Development   | 8134  | 8537  | 3.8%          | 95.3%        | 0.004            |
+| Customer Service         | 13185 | 13507 | 3.3%          | 97.61%       | 0.0033           |
+| Excel - Basic to Advance | 11446 | 11683 | 2.4%          | 98%          | 0.0024           |
+| Technical Skills         | 16144 | 16593 | 2.2%          | 97.3%        | 0.0023           |
+| Project Management       | 18229 | 18966 | 2%            | 96.11%       | 0.0021           |
+| Database Administration  | 18600 | 17260 | 1.9%          | 107.76%      | 0.0018           |
+
+
+<br>
+<p align=justify>
+From this figure, we can see that Communication Skills, Leadership Development, and Customer Service delivered the best ROI while maintaining a balanced budget discipline.
+In Communication Skill approximately 4.55% performance improved per $1000 spent with producing highest efficiency ratio of 0.0047 and Leadership Development showed similar efficiency of 95.3% ROI and 95% budget used, demonstrating strong improvement per $1000 spent. Customer Service also performed well with strong ROI and balanced cost control, utilizing 97% of its budget.</p>
+<p align=justify>
+In contrast, Database Administration showed the lowest ROI 1.9% per $1000 and due to overspending (107.76% budget) its Efficiency Ratio dropped to (0.0018). This clearly indicating that despite the higher costs, performance benefits have not increased proportionally. Technical Skills and Excel - Basic to Advance showed moderate ROI, but Excel program need a focus on content delivery, duration and trainer efficiency.</p>
+Overall, it reveals that higher spending does not always guarantee higher impact—programs with skilled trainers, focused duration and structured content achieved better outcomes.<br>
+
+<br>
+<br>
+
+
+<h2><a class="anchor" id="action plan"></a>Recommendations</h2>
+
+- **Strategic Budget Planning and Monitoring** - Establishing a training budget framework that aligns cost with measurable performance outcomes. Regular monitoring and variance analysis will help minimize overspending and improve cost predictability.
+- **Focus on ROI-Driven Evaluation Metrics** – Linking learning outcomes to productivity by tracking post-training performance and analyzing ROI for all programs may help to identify high-impact areas and eliminate low-value activities.
+- **Optimization of High-Cost Trainings** – For high-cost training programs such as Database Administration — focus on delivery method, training curriculum, vendor selection, and reviewing the training period can help to ensure performance improvement is proportional to cost.
+- **Enrich Employee Engagement** – We observed a 14.1% decline in participation in 2023. Conducting employee feedback and satisfaction surveys will improve the relevance of training and flexibility of scheduling.
+
+Therefore, it can be concluded that the company’s training expenses were strategically managed and effectively utilized. The budget was not wasted — it was focused on initiatives that enhanced employee skills and performance. With ongoing monitoring and performance-based budgeting, the company can ensure that future spending maximizes ROI and supports long-term workforce growth.
+
+
+
+
