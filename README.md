@@ -11,6 +11,18 @@ This project evaluates employee performance improvement following training, anal
 
 <br>
 
+## 📌 Table of Contents
+- <a href="#ask1">Business Qustions</a>
+- <a href="#set_goal">Goal</a>
+- <a href="#exs">Executive Summary</a>
+- <a href="#kf">Key Findings</a>
+- <a href="#drb">Dashboard</a>
+- <a href="#ext_analysis">Extended Analysis</a>
+- <a href="#action plan">Recommendations</a>
+- <a href="#dashboard">Dashboard</a>
+- <a href="#how-to-run-this-project">How to Run This Project</a>
+- <a href="#final-recommendations">Final Recommendations</a>
+- <a href="#author--contact">Author & Contact</a>
 
 <h2><a class="anchor" id="ask1"></a>Ask</h2>
 
@@ -105,7 +117,7 @@ As an external program, Database Administration slightly 7.76% over of its alloc
 <br>
 <br>
 
-<h2><a class="anchor" id="pa"></a>Extended Analysis: Cost, Duration and Program Performance Efficiency</h2>
+<h2><a class="anchor" id="ext_analysis"></a>Extended Analysis: Cost, Duration and Program Performance Efficiency</h2>
 <p>Performed Correlation and ROI-based performance analysis to evaluate performance growth, training cost, training duration, and budget utilization across all training programs, including the Efficiency Ratio to highlight programs that achieved the best balance between impact and budget control.</p> <br>
 
 
@@ -146,13 +158,14 @@ Overall, it reveals that higher spending does not always guarantee higher impact
 
 <h2><a class="anchor" id="action plan"></a>Recommendations</h2>
 
-- **Strategic Budget Planning and Monitoring** - Establishing a training budget framework that aligns cost with measurable performance outcomes. Regular monitoring and variance analysis will help minimize overspending and improve cost predictability.
-- **Focus on ROI-Driven Evaluation Metrics** – Linking learning outcomes to productivity by tracking post-training performance and analyzing ROI for all programs may help to identify high-impact areas and eliminate low-value activities.
-- **Optimization of High-Cost Trainings** – For high-cost training programs such as Database Administration — focus on delivery method, training curriculum, vendor selection, and reviewing the training period can help to ensure performance improvement is proportional to cost.
-- **Enrich Employee Engagement** – We observed a 14.1% decline in participation in 2023. Conducting employee feedback and satisfaction surveys will improve the relevance of training and flexibility of scheduling.
+- Establish a strategic training budget framework that aligns cost with measurable performance outcomes
+- Focus on training duration, trainer selection, or delivery methods to optimize high-cost programs
+- Implement a periodic evaluation process for external vendors or trainers based on participant feedback and learning effectiveness, ensuring only high-performing partners continue in future cycles.
+- Conduct employee feedback or satisfaction surveys to improve the relevance of training, schedule flexibility, and trainers effectiveness
+- Linking learning outcomes with productivity by tracking post-training performance and analyzing ROI for all programs may help to identify high-impact areas and eliminate low-value activities.
+- Regular monitoring and variance analysis will help minimize overspending and improve cost predictability
 
-Therefore, it can be concluded that the company’s training expenses were strategically managed and effectively utilized. The budget was not wasted — it was focused on initiatives that enhanced employee skills and performance. With ongoing monitoring and performance-based budgeting, the company can ensure that future spending maximizes ROI and supports long-term workforce growth.
 
-
+Therefore, it can be concluded that the company’s training expenses were strategically managed and effectively utilized. By implementing those recommended actions, company can transform its training ecosystem into a strategic growth engine — enhancing workforce capability, maintaining cost efficiency and ensuring every training invest contributes to long-term organizational success.
 
 
