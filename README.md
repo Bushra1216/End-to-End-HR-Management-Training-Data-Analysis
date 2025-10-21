@@ -67,7 +67,7 @@ This project evaluates employee performance improvement following training, anal
 <h3><a class="anchor" id="wto"></a>Workforce Training Overview</h3>
 <br> <img width="1348" height="933" alt="Image" src="https://github.com/user-attachments/assets/a29d5fe1-1804-45f3-ae7f-81aaec71d6c5" /> <br><br>
 
-Most employees received training in Project Management. Employees showed higher participation in Internal training (over 80%) compared to external training programs. Completion rate decreased 12% in 2023 compared to 2022, which was 58%. Training participation peaked from October to December in 2022 and January 2023. However, employees improved their performance by an average of 37% <a href=" ">read more</a>.
+Most employees received training in Project Management. Employees showed higher participation in Internal training (over 80%) compared to external training programs. Completion rate decreased 12% in 2023 compared to 2022, which was 58%. Training participation peaked from October to December in 2022 and January 2023. However, employees improved their performance by an average of 37% <a href="https://github.com/Bushra1216/End-to-End-HR-Management-Training-Data-Analysis/blob/main/HR_Report.pdf">read more</a>.
 
 
 <br>
