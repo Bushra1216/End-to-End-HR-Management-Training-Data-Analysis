@@ -18,11 +18,11 @@ This project evaluates employee performance improvement following training, anal
 - <a href="#kf">Key Findings</a>
 - <a href="#drb">Dashboard</a>
 - <a href="#ext_analysis">Extended Analysis</a>
-- <a href="#action plan">Recommendations</a>
 - <a href="#dashboard">Dashboard</a>
-- <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
+- <a href="#action plan">Recommendations</a>
+<br>
+<br>
+
 
 <h2><a class="anchor" id="ask1"></a>Ask</h2>
 
