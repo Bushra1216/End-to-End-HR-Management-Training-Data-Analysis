@@ -50,7 +50,7 @@ This project evaluates employee performance improvement following training, anal
 
 <h2><a class="anchor" id="exs"></a>Executive Summary</h2>
 
-<p align=justify><strong>From May 10, 2022, to August 3, 2023, the company conducted seven training programs involving approximately 145 employees, with the highest participation in May. Most employees joined in Project Management training. Employees showed higher participation in Internal training (over 80%) compared to External training programs. Total cost across overall period was approximately $95k, and spending decreased by 30.76% in 2023.</strong></p>
+<p align=justify><strong>From May 10, 2022, to August 3, 2023, the company conducted seven training programs involving 145 employees, with the highest participation in May. Most employees joined in Project Management training. Employees showed higher participation in Internal training (over 80%) compared to External training programs. Total cost across overall period was approximately $95k, and spending decreased by 30.76% in 2023.</strong></p>
 
 
 
