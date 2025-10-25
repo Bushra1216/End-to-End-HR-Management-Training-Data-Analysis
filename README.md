@@ -129,7 +129,7 @@ It indicates that higher spending does not always guarantee better outcomes]
 - Between training duration & performance growth: Pearson r = 0.1908, P-value: 0.68 [No significant relationship between training days and performance growth]
 
 **Interpretation:**
-Both correlation shows no significant relationship between them. It indicates, higher spending or longer programs do not always guarantee greater learning gains or high performance gowth. Focus on what is delivered, trainer's quality, program structure or content relevance.<br>
+Both correlation shows no significant relationship between them. These results indicate that higher spending or longer programs do not always guarantee greater learning gains or high performance gowth. Focus on what is delivered, trainer's quality, program structure or content relevance.<br>
 
 <br>
 <h4><a class="anchor" id="roi_ef"></a>ROI and Efficiency Ratio</h4>
