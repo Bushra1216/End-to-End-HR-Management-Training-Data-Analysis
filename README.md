@@ -20,6 +20,7 @@ This project evaluates employee performance improvement following training, anal
 - <a href="#ext_analysis">Extended Analysis</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#action plan">Recommendations</a>
+- <a href="https://1drv.ms/x/c/7e60d6efe3bbc53c/ETI4IfztMU1HuZEqArs4bZcBBArzZhjBj4m2WoWTkvSdIA?e=RiLahW">Live View</a>
 <br>
 <br>
 
