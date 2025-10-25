@@ -64,7 +64,7 @@ This project evaluates employee performance improvement following training, anal
 - Savings: 1.3% of the budget remained unspent, reflecting prudent cost control, not waste
 - Internal vs. External Cost Split: Internal Training Cost = 65K, External Cost = 30K
 - Performance Growth: Overall employee performance improved across all programs — with an average growth of 36%
-- Top Trainings: Communication Skills, Customer Service delivered the best Return On Investment and based on post-test score employees improved 37% in Project Management 
+- Top Trainings: Communication Skills, Customer Service delivered the best Return On Investment, though based on only post-test score employees improved 37% in Project Management 
 - Best Budget Efficiency: Leadership Development (lowest cost per employee ~$508)
 - Top Perfroming Trainers: Maek Paul and John Dawson — received average feedback scores of 4.5
 - Employee Participation Concern: Participation drop 14.10% in 2023
