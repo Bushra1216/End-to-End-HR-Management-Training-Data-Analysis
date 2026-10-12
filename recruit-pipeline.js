@@ -59,3 +59,9 @@ function onEdit(e) {
   // delete row data from the source sheet
   sheet.deleteRow(rowNum);
 }
+
+
+
+//https://docs.google.com/forms/d/e/1FAIpQLSfG2cEF5wi3I3ug1bsZPYzXOAod6A87P4JmM5H_gRICM5hEMA/viewform?usp=header -- form 
+// recruitment_tracker -- https://docs.google.com/spreadsheets/d/1enTkOx70_7lrnIZMR-cCDOZ_7HoslbhM9C-MNFTJWwk/edit?usp=sharing
+// data_entry automated https://docs.google.com/spreadsheets/d/1EcJSw-80cApummgxvMMaKCWzrfxSQ0NFgYlUZikfPc8/edit?usp=sharing
